@@ -30,7 +30,8 @@ npm install
 cd ../callback
 npm install
 
-cd ../promi
+cd ../promise
+npm install
 ```
 
 ## Starting the Servers
