@@ -1,0 +1,17 @@
+{
+  "name": "flow-strategies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server:async": "cd async && npm run server",
+    "start:async": "cd async && npm run start",
+    "server:callback": "cd callback && npm run server",
+    "start:callback": "cd callback && npm run start",
+    "server:promise": "cd promise && npm run server",
+    "start:promise": "cd promise && npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
